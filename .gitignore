@@ -4,7 +4,7 @@
 
 # Session Data files
 .RData
-.RDataTmp
+*.RData
 
 # User-specific files
 .Ruserdata
@@ -19,6 +19,7 @@
 /*.Rcheck/
 
 # RStudio files
+.Rproj.user
 .Rproj.user/
 
 # produced vignettes
@@ -39,11 +40,106 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
+# Mac
+.DS_Store
+.Thumbs.db
+Thumbs.db
+
+# R projects 
+*.Rproj
+
+# Directories
 docs/
+data/
+development/
+macros/
+output/
+sasdata/
+libs/
 
-# translation temp files
-po/*~
+# Exclude .Rmd output
+*.html
+**/figure-html/
 
-# RStudio Connect folder
-rsconnect/
+# Exclude Text
+*.txt
+*.Txt
+*.TXT
+
+# Exclude Excel
+*.xlsx
+*.xls
+
+# R data
+*.rds
+*.RDS
+*.Rds
+*.rda
+*.RDA
+*.Rda
+
+# csv data
+*.csv
+*.CSV
+*.Csv
+
+# sas data
+*.sas7bdat
+*.sas7bcat
+
+# SPSS data
+*.sav
+*.SAV
+*.Sav
+
+# SPSS output
+*.spv
+*.SPV
+*.Spv
+
+# STATA data
+*.dta
+*.DTA
+*.Dta
+
+# STATA log files
+*.log
+*.LOG
+*.Log
+*.smcl
+*.SMCL
+*.Smcl
+
+# data commonly used in Python
+*.json
+*.pkl
+*.h5
+*.msgpack
+*.parquet
+*.feather
+
+# VSC
+www/.vscode/
+
+# Bookdown book
+_book/
+_bookdown_files/
+
+# Binary - Powerpoint and iThoughtsX
+*.ppt
+*.pptx
+*.itmz
+
+# R packages
+*.tar
+
+# Archives
+*.zip
+*.Zip
+*.ZIP
+
+# Quarto
+/.quarto/
+/_site/
+.quarto/
+_site/
