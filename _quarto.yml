@@ -2,18 +2,81 @@ project:
   type: website
 
 website:
-  title: "Layal Christine Lettry's Publications and Contributions"
+  title: "Layal Christine Lettry's Publications, Contributions and Talks"
+  description: "Happy to share my work with you!"
+  page-navigation: true
+  reader-mode: true  
+  favicon: "image/favicon/apple-touch-icon.png"
   navbar:
+    title: false
+    background: "#0571B0"
+    logo: "image/favicon/apple-touch-icon.png"
+    left:
+      - href: index.xml
+        text: RSS
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - text: Sites
+        menu:
+        - href: https://layalchristinelettry.rbind.io
+          text: Homepage
+        - href: https://rdiscovery.netlify.app
+          text: rdiscovery Blog
+      - text: GitHub
+        menu:
+        - icon: github
+          href: https://github.com/Layalchristine24/quarto-layal-publications
+          text: Blog Repository
+        - icon: github
+          href: https://github.com/Layalchristine24
+          text: Layalchristine24 Profile
+        - icon: github
+          href: https://github.com/cynkra
+          text: cynkra GmbH
+        - icon: github
+          href: https://github.com/asam-group
+          text: ASAM Group
+      - text: Social
+        menu:
+        - icon: twitter
+          href: https://twitter.com/LettryL
+          text: Twitter
+        - icon: linkedin
+          href: https://linkedin.com/in/layal-christine-lettry-529b4471/
+          text: LinkedIn
+        - icon: mastodon
+          href: https://fosstodon.org/@layal
+          text: Mastodon
+      - text: Research
+        menu: 
+        - href: https://orcid.org/0009-0008-6396-0523
+          text: ORCID
+        - href: https://www.researchgate.net/profile/Layal-Lettry
+          text: ResearchGate
+        - href: https://unifr.academia.edu/LayalChristineLettry
+          text: Academia
+        - href: https://scholar.google.com/citations?user=YxD9LGQAAAAJ&hl=fr
+          text: Google Scholar
+        - href: https://stackexchange.com/users/28214106/layal-christine-lettry
+          text: StackExchange
+        
+  page-footer:
+    center:
+      - href: https://lclettry-pub.netlify.app
+        text: lclettry-pub.netlify.app
+  site-url: https://lclettry-pub.netlify.app
+  repo-url: https://github.com/Layalchristine24/quarto-layal-publications
+  open-graph: true
+  search: true
+  
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: sandstone
+      dark: darkly
     css: styles.css
+    include-after-body: plausible.html
 
-
-
+editor: visual
+execute:
+  freeze: auto
