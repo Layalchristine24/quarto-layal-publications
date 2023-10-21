@@ -2,11 +2,13 @@
 title: Du retour des mères sur le marché du travail suisse
 subtitle: L'influence d'une interruption de carrière sur le salaire des femmes
 bibliography: references.bib
-author: 
-  - name:
-      given: Layal Christine
-      family: Lettry
-      orcid: 0009-0008-6396-0523
+author:
+  - name: Layal Pipoz
+    affiliations:
+      - id: unifr
+        name: University of Fribourg, Dept. of Economics
+        city: Fribourg
+        state: CH
 date: 2015-12-16
 categories: [thesis, master, SHARE, bivariate probit, R]
 image: image.jpg

@@ -1,0 +1,52 @@
+---
+title: Direct and indirect effects of continuous treatments based on generalized propensity score weighting
+subtitle: L'influence d'une interruption de carrière sur le salaire des femmes
+bibliography: references.bib
+author:
+  - name: Layal Pipoz
+    affiliations:
+      - id: bsv
+        name: Swiss Federal Agency for Social Insurances, Mathematics Group
+        city: Bern
+        state: CH
+  - name: Martin Huber
+    affiliations:
+      - id: unifr
+      - name: University of Fribourg, Dept. of Economics
+        city: Fribourg
+        state: CH
+  - name: Yu-Chin Hsu
+    affiliations:
+      - id: sinica
+      - name: Academia Sinica, Institute of Economics; Department of Finance, National Central
+  - name: Ying-Ying Lee
+    affiliations:
+      - id: sinica
+      - name: University of California Irvine, Dept. of Economics
+date: 2015-12-16
+categories: [working paper, mediation analysis, continuous treatment, weighting, generalized propensity score, R]
+image: image.jpg
+citation: 
+  url: https://folia.unifr.ch/unifr/documents/306658
+  language: fr
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*What are the effects of a career break related to motherhood on women's wages?*
+
+# Summary
+
+Based on the research conducted by [@hotchkiss_female_2005], our focus is on the wage income of women who have experienced a professional career interruption by one or more absences of more than one year due to maternity.
+
+This particular career path is referred to as intermittent and exemplifies a three-phase model that encompasses a period of interruption between two active periods in the labor market. Therefore, we are led to divide the female population into two sectors, namely the continuous and intermittent sectors.
+
+According to the study conducted by [@hotchkiss_female_2005], it has been observed that a wage penalty for women in the intermittent sector is widely acknowledged within the research community, in contrast to those in the continuous sector. Nonetheless, its magnitude remains a matter of debate and requires determination.
+
+Furthermore, it is probable that this disparity in wages will exert an impact on the selection of a career path and on the decision to participate or not in the labor force. This influence may vary based on the sociocultural characteristics of each individual. We will attempt to answer these questions for Swiss women, in contrast to the study by Hotchkiss (2005), which tested them for American women.
+
+Kindly refer to the thesis submitted by [@pipoz_du_2015] for further details. It is also available in English thanks to the Academia translator.
