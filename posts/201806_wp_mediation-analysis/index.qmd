@@ -24,7 +24,7 @@ author:
         city: Bern
         state: CH
 date: 2018-06-01
-categories: [working paper, mediation analysis, continuous treatment, weighting, generalized propensity score, R]
+categories: [publication, working paper, mediation analysis, continuous treatment, weighting, generalized propensity score, UniFr, R]
 image: image.jpg
 citation: 
   url: https://folia.unifr.ch/unifr/documents/306658
