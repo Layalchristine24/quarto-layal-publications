@@ -1,0 +1,40 @@
+---
+title: Expertise \"Validierung des Modellansatzes zur Berechnung und Projektion der Einnahmen und Ausgaben der OASI\"
+subtitle: Mandat réalisé pour le compte de l’Office fédéral des assurances sociales par Laurent Donzé
+bibliography: references.bib
+author:
+  - name: Laurent Donzé
+    affiliations:
+      - id: unifr
+      - name: University of Fribourg, Dept. of Informatics
+        city: Fribourg
+        state: CH
+contributor: Layal Pipoz
+date: 2018-08-20
+categories: [contribution, FSIO, OASI, expertise, UniFr, R]
+image: image.jpg
+citation: 
+  url: https://www.bsv.admin.ch/dam/bsv/de/dokumente/ahv/finanzperspektiven/validierung-modellansatz-ahv.pdf.download.pdf/2018_07_09_definitif_ld_rapport_ofas.pdf
+  language: fr
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*Is the Mathematics Section of FSIO's new OASI budget calculation tool, implemented in R software and validated by external experts, comprehensive, based on plausible assumptions, and consistent between documentation and code, ready to support potential OASI financing system reforms?*
+
+# Summary
+As part of its \"Phoenix\" project, the Mathematics Section of the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html) is responsible, among other things, for the development and re-implementation of the calculation of the OASI budget in the short and long term. This has recently been implemented with the R software. This new tool allows for the flexible projection of long-term pension amounts. With a view to a new reform of the OASI financing system, it is therefore essential to have reliable estimates of the OASI budget. 
+
+With this in mind, the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html) decided to have its pension modelling validated by external experts. @donze_expertise_2018 has been commissioned to do this. Throughout this appraisal, @donze_expertise_2018 has benefited from the help, explanations and comments of Layal Pipoz, a member of the Mathematics Section of the Federal Social Insurance Office ([FSIO](https://www.bsv.admin.ch/bsv/en/home.html)). In particular, the model for the long-term calculation of expenditures and revenues must be validated according to:
+
+1. the completeness of the model;
+
+2. the parametrisation and plausibility of the model's assumptions
+
+3. the implementation in computer code, in particular from the point of view of the consistency
+between the documentation and the code.
+
