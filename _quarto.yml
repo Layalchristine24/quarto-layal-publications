@@ -4,7 +4,7 @@ project:
 website:
   title: "Layal Christine Lettry's Publications, Contributions and Talks"
   description: "Happy to share my work with you!"
-  page-navigation: true
+  page-navigation: false
   reader-mode: true  
   favicon: "image/favicon/apple-touch-icon.png"
   navbar:
