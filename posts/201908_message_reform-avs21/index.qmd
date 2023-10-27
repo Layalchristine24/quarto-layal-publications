@@ -1,0 +1,36 @@
+---
+title: Message relatif à la stabilisation de l'AVS (AVS 21)
+bibliography: references.bib
+author:
+  - name: 
+      given: Mathematics Group
+      family: FSIO
+    affiliations:
+        id: bsv
+        name: Swiss Federal Agency for Social Insurances, Mathematics Group
+        city: Bern
+        state: CH
+contributor: Layal Christine Pipoz
+date: 2019-08-28
+categories: [contribution, FSIO, OASI, AVS 21, AHV 21, message, R]
+image: image.jpg
+citation: 
+  url: https://fedlex.data.admin.ch/eli/fga/2019/2267
+  language: fr, de, it 
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*Is it possible to balance the medium-term financing of OASI pensions while preserving benefit levels in the OASI stabilization project?*
+
+# Summary
+
+The @ofasbsvfsio_botschaft_2019 prepared this message, which was adopted by the Swiss Federal Council on August 28, 2019. 
+
+Together with the mathematicians from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I contributed to this document by modeling and producing the various variants of the Old-Age and Survivors Insurance (OASI) financial budget in R.
+
+These variants are featured on the last pages of the document.
