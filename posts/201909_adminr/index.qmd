@@ -16,7 +16,7 @@ categories: [publication, talk, delfin, R package, UniFr, OASI, FSIO, R]
 image: image.jpg
 citation: 
   url: https://github.com/swiss-adminR/201909_slides/blob/master/2019_09_19_plc_presentation_delfin.pdf
-  language: en
+  language: fr
 format:
   html:
     toc: true
