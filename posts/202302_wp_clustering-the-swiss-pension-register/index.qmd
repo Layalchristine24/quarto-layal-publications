@@ -1,0 +1,44 @@
+---
+title: Clustering the Swiss Pension Register
+subtitle: Under the supervision of Prof. Dr. L. Donzé
+bibliography: references.bib
+author:
+  - name:
+      given: Layal Christine
+      family: Lettry
+    affiliations:
+      - id: unifr
+      - name: University of Fribourg, Dept. of Informatics, ASAM Group
+        city: Fribourg
+        state: CH
+      - id: cynkra
+      - name: cynkra GmbH
+        city: Zurich
+        state: CH
+  - name: Laurent Donzé
+    affiliations:
+      - id: unifr
+      - name: University of Fribourg, Dept. of Informatics, ASAM Group
+        city: Fribourg
+        state: CH
+date: 2023-02-27
+categories: [publication, working paper, kamila, clustering, rrclust, prediction strength criterion, R package, UniFr, OASI, FSIO, R]
+image: image.jpg
+citation: 
+  url: https://folia.unifr.ch/unifr/documents/324081
+  language: en
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*How can the diverse data of the Swiss Pension Register be clustered and analyzed to understand the sociodemographic characteristics of OASI pensioners and their implications for estimating future OASI finances?*
+
+# Summary
+The anonymous information from the Swiss Pension Register (CCO/FSIO) (PR) is typically used to estimate (in the short, middle, and long term) the future revenues and expenditures of  the Old-Age and Survivors Insurance (OASI).
+
+In this perspective, it is essential to have a clear look at the register’s main statistical features. In order to gain a deeper comprehension of the data and maximize its richness, @lettry_clustering_2023 suggest analyzing the raw data using a suitable clustering technique.
+
