@@ -1,0 +1,36 @@
+---
+title:  Message concernant l’initiative populaire "Mieux vivre à la retraite (initiative pour une 13e rente AVS)"
+bibliography: references.bib
+author:
+  - name: 
+      given: Mathematics Group
+      family: FSIO
+    affiliations:
+        id: bsv
+        name: Swiss Federal Agency for Social Insurances, Mathematics Group
+        city: Bern
+        state: CH
+contributor: Layal Christine Lettry
+date: 2022-05-25
+categories: [contribution, FSIO, OASI, 13th monthly pension, message, R]
+image: image.jpg
+citation: 
+  url: https://www.fedlex.admin.ch/eli/fga/2022/1485/fr
+  language: fr, de, it 
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*Is the Swiss Trade Union's plan for a thirteenth monthly pension, while safeguarding supplementary benefits, effectively countering the declining AVS replacement rate and occupational pension concerns?*
+
+# Summary
+
+The @botschaft_treize_2022 prepared this message, which was adopted by the Swiss Federal Council on May 25, 2022.
+
+Together with the mathematicians from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I contributed to this document by modeling and producing the various variants of the Old-Age and Survivors Insurance (OASI) financial budget in R.
+
+These variants are featured on the last pages of the document.
