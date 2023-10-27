@@ -3,9 +3,11 @@ title: Projection of the expenses of the Old-age and survivors insurance
 subtitle: Standardization of the Old-Age and Survivors Insurance (OASI) expense model
 bibliography: references.bib
 author:
-  - name: Layal Christine Pipoz
+  - name:
+      given: Layal Christine
+      family: Pipoz
     affiliations:
-      - id: bsv
+        id: bsv
         name: Swiss Federal Agency for Social Insurances, Mathematics Group
         city: Bern
         state: CH
@@ -14,7 +16,7 @@ categories: [publication, FSIO, OASI, CHSS, R]
 image: image.jpg
 citation: 
   url: https://soziale-sicherheit-chss.ch/fr/modele-de-projection-des-depenses-de-lavs/
-  language: fr 
+  language: fr, de 
 format:
   html:
     toc: true
@@ -32,5 +34,3 @@ In this article, @pipoz_modeprojection_2018 discusses the reasons why the Old-Ag
 One of the main objectives was to improve the transparency and efficiency of the computation. R was the preferred solution for achieving these objectives.
 
 Furthermore, the calculation method was different for the Swiss and foreign populations. The R programming language allowed for a more efficient standardization of the model.
-
-
