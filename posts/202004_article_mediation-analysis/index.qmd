@@ -16,7 +16,7 @@ author:
     affiliations:
       - id: sinica
       - name: University of California Irvine, Dept. of Economics
-  - name: Layal Pipoz
+  - name: Layal Lettry
     affiliations:
       - id: bsv
         name: Swiss Federal Agency for Social Insurances, Mathematics Group
