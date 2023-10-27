@@ -1,0 +1,51 @@
+---
+title: Auswirkungen auf Arbeitsmarkt, Gesamtwirtschaft, ALV und Sozialhilfe der Renteninitiative 
+subtitle: Forschungsbericht Nr. 9/22
+bibliography: references.bib
+author:
+  - name: André Müller
+    affiliations:
+        id: ecoplan
+        name: Ecoplan AG
+        city: Bern
+        state: CH
+  - name: Tanja Engel
+    affiliations:
+        id: ecoplan
+        name: Ecoplan AG
+        city: Bern
+        state: CH
+  - name: Michael Marti
+    affiliations:
+        id: ecoplan
+        name: Ecoplan AG
+        city: Bern
+        state: CH
+  - name: Corinne Spillmann
+    affiliations:
+        id: ecoplan
+        name: Ecoplan AG
+        city: Bern
+        state: CH
+contributor: Layal Christine Lettry
+date: 2022-06-22
+categories: [contribution, FSIO, OASI, pension initiative, research report, R]
+image: image.jpg
+citation: 
+  url: https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/forschung/forschungspublikationen.exturl.html?lang=de&lnr=09/22#pubdb
+  language: de 
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*What will be the impact of the Swiss "Pension Initiative" on retirement age, gender equality, and the pension system's sustainability, and is the temporary age quotient reduction by 2060 a viable long-term solution?*
+
+# Summary
+
+In this research project, @muller_renteninitiative_2022 analyze the effects of the Popular Initiative about the OASI Pensions on the labor market, the economy, the unemployment insurance, and the social benefits.
+
+As a member of the support group comprised of legal experts, economists, and political scientists from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I have made significant contributions to this document by providing a model calculation, a revision of the report, and engaging in discussions with the entity commissioned to draft this report regarding the model provided by the text of the initiative.

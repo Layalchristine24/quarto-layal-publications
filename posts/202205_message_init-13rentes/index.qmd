@@ -1,5 +1,5 @@
 ---
-title:  Message concernant l’initiative populaire "Mieux vivre à la retraite (initiative pour une 13e rente AVS)"
+title: Message concernant l’initiative populaire "Mieux vivre à la retraite (initiative pour une 13e rente AVS)"
 bibliography: references.bib
 author:
   - name: 
