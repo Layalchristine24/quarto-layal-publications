@@ -1,0 +1,37 @@
+---
+title: Fiche d'information Projet Fiscalité et AVS, contribution à la couverture du besoin financier de l’AVS
+subtitle: The effects of the "Tax Reform and AHV Financing" (TRAF) proposal on the stabilization of the OASI.
+bibliography: references.bib
+author:
+  - name: 
+      given: Mathematics Group
+      family: FSIO
+    affiliations:
+        id: bsv
+        name: Swiss Federal Agency for Social Insurances, Mathematics Group
+        city: Bern
+        state: CH
+contributor: Layal Christine Pipoz
+date: 2018-12-19
+categories: [contribution, FSIO, OASI, EFD, DFF, FDF, RFFA, STAF, TRAF, R]
+image: image.jpg
+citation: 
+  url: https://www.efd.admin.ch/dam/efd/en/das-efd/gesetzgebung/abstimmungen/ahv-hintergrund-berechnungen.pdf.download.pdf/20190218%20DE%20STAF%20Hintergrund%20Berechnungen%2020190215.pdf
+  language: fr, de, it 
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*The 43 billion Swiss Francs OASI deficit from 2021 to 2030 raises concerns, but could the approval of the Tax Reform and AHV Financing on May 19, 2019 be successful?*
+
+# Summary
+
+The @ofasbsvfsio_hintergrunddokumnent_2019 prepared this fact sheet, which was published on the [website of the Federal Department of Finance (FDF)](https://www.efd.admin.ch/efd/en/home/the-fdf/legislation/votes/tax-reform-ahv-financing/staf-bsv.html) on February 19, 2019. It demonstrates the assumptions used to calculate the budget.
+
+Together with the mathematicians from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I contributed to this document by modeling and producing the various variants of the Old-Age and Survivors Insurance (OASI) financial budget in R.
+
+These variants are featured on the last page of the document.
