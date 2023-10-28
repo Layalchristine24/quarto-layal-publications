@@ -12,7 +12,7 @@ author:
         city: Bern
         state: CH
 date: 2019-09-19
-categories: [publication, talk, delfin, R package, UniFr, OASI, FSIO, R]
+categories: [talk, delfin, R package, UniFr, OASI, FSIO, R]
 image: image.jpg
 citation: 
   url: https://github.com/swiss-adminR/201909_slides/blob/master/2019_09_19_plc_presentation_delfin.pdf
@@ -29,12 +29,10 @@ format:
 
 # Summary
 
-In this presentation, @lettry_presentation_2019 discussed the challenges of using GAUSS in managing social insurance budgets. These challenges include a lack of transparency, difficulty in replicating previous budgets, inadequate documentation, and the absence of automation. 
+In this presentation, @lettry_presentation_2019 discussed the challenges of using GAUSS in managing social insurance budgets. These challenges include a lack of transparency, difficulty in replicating previous budgets, inadequate documentation, and the absence of automation.
 
 To address these issues, @lettry_presentation_2019 propose adopting the R programming language, which offers several advantages. R is actively maintained, ensuring its reliability. It also easily connects to various data sources and integrates with systems like LaTeX, improving data handling and reporting. Furthermore, R is known for its flexibility and open-source nature, allowing users to customize it to their needs. A key advantage is that R is entirely free to use.
 
 The delfin R package was developed thanks to the assistance of Dr Christoph Sax, a renowned R consultant. With this package, the Mathematics Group from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html) can efficiently generate an Old-Age and Survivors Insurance (OASI) budget in Excel format entirely using R. Furthermore, through the use of the GIT Control Version System (VCS), it is possible to have better control over inputs, parameters, and model development. Eventually, the Shiny application enables individuals lacking programming expertise to generate budgets independently, without the necessity of writing any code in the console.
 
-
 In conclusion, R has become an essential tool for modeling social insurance budgets, overcoming the limitations of GAUSS and providing the flexibility, transparency, and automation needed for managing complex financial responsibilities in this field.
-
