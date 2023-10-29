@@ -12,12 +12,10 @@ about:
       href: https://linkedin.com/in/layal-christine-lettry-529b4471/
     - icon: github
       text: Github
-      href: https://github.com/Layalchristine24/rdiscovery
+      href: https://github.com/Layalchristine24/quarto-layal-publications
     - icon: mastodon
       text: Mastodon
       href: https://fosstodon.org/@layal
 ---
 
 In this blog, I intend to share with you my publications, contributions, and talks in the form of posts.
-
-
