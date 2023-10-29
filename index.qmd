@@ -1,5 +1,6 @@
 ---
 title: "Layal Christine Lettry's publications, contributions and talks"
+subtitle: "Happy to share my work with you!"
 listing:
   contents: posts
   feed: true

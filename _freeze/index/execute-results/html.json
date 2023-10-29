@@ -1,8 +1,10 @@
 {
-  "hash": "072983684a2dc92c160caa5e8f3332e7",
+  "hash": "d35b36b135812df7577b50fb44374605",
   "result": {
-    "markdown": "---\ntitle: \"Layal Christine Lettry's publications, contributions and talks\"\nlisting:\n  contents: posts\n  feed: true\n  sort: \"date desc\"\n  type: default\n  categories: cloud\n  sort-ui: [title, date]\n  filter-ui: [title, date]\npage-layout: full\ntitle-block-banner: true\nimage: profile.jpg\n---\n\n::: {.cell}\n\n:::\n\n\n<!-- Mastodon verification -->\n\n<a rel=\"me\" style=\"display:none\" href=\"https://fosstodon.org/@layal\">Hidden link used to verify my account on fosstodon.org</a> <a rel=\"me\" style=\"display:none\" href=\"https://linkedin.com/in/layal-christine-lettry-529b4471/\">Hidden link used to verify my account on LinkedIn</a> <a rel=\"me\" style=\"display:none\" href=\"https://twitter.com/LettryL\">Hidden link used to verify my account on Twitter</a> <a rel=\"me\" style=\"display:none\" href=\"https://github.com/Layalchristine24\">Hidden link used to verify my account on GitHub</a>\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Layal Christine Lettry's publications, contributions and talks\"\nsubtitle: \"Happy to share my work with you!\"\nlisting:\n  contents: posts\n  feed: true\n  sort: \"date desc\"\n  type: default\n  categories: cloud\n  sort-ui: [title, date]\n  filter-ui: [title, date]\npage-layout: full\ntitle-block-banner: true\nimage: profile.jpg\n---\n\n::: {.cell}\n\n:::\n\n\n<!-- Mastodon verification -->\n\n<a rel=\"me\" style=\"display:none\" href=\"https://fosstodon.org/@layal\">Hidden link used to verify my account on fosstodon.org</a> <a rel=\"me\" style=\"display:none\" href=\"https://linkedin.com/in/layal-christine-lettry-529b4471/\">Hidden link used to verify my account on LinkedIn</a> <a rel=\"me\" style=\"display:none\" href=\"https://twitter.com/LettryL\">Hidden link used to verify my account on Twitter</a> <a rel=\"me\" style=\"display:none\" href=\"https://github.com/Layalchristine24\">Hidden link used to verify my account on GitHub</a>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
