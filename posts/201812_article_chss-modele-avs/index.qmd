@@ -27,10 +27,13 @@ format:
 
 *How can the transparency and efficiency of the Old-Age and Survivors Insurance (OASI) expense model, particularly in its calculation methods for Swiss and foreign populations, be enhanced?*
 
-# Summary
-
 In this article, @pipoz_modeprojection_2018 discusses the reasons why the Old-Age and Survivors Insurance (OASI) expense model was adapted in the spring of 2018.
 
 One of the main objectives was to improve the transparency and efficiency of the computation. R was the preferred solution for achieving these objectives.
 
 Furthermore, the calculation method was different for the Swiss and foreign populations. The R programming language allowed for a more efficient standardization of the model.
+
+### References
+
+::: {#refs}
+:::

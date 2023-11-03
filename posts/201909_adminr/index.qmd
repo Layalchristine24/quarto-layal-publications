@@ -27,8 +27,6 @@ format:
 
 *How does the adoption of the R programming language offer a solution to the challenges in managing social insurance budgets related to transparency, data replication, documentation, and automation, and what specific advantages make R a suitable choice for this purpose?*
 
-# Summary
-
 In this presentation, @lettry_presentation_2019 discussed the challenges of using GAUSS in managing social insurance budgets. These challenges include a lack of transparency, difficulty in replicating previous budgets, inadequate documentation, and the absence of automation.
 
 To address these issues, @lettry_presentation_2019 propose adopting the R programming language, which offers several advantages. R is actively maintained, ensuring its reliability. It also easily connects to various data sources and integrates with systems like LaTeX, improving data handling and reporting. Furthermore, R is known for its flexibility and open-source nature, allowing users to customize it to their needs. A key advantage is that R is entirely free to use.
@@ -36,3 +34,8 @@ To address these issues, @lettry_presentation_2019 propose adopting the R progra
 The delfin R package was developed thanks to the assistance of Dr Christoph Sax, a renowned R consultant. With this package, the Mathematics Group from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html) can efficiently generate an Old-Age and Survivors Insurance (OASI) budget in Excel format entirely using R. Furthermore, through the use of the GIT Control Version System (VCS), it is possible to have better control over inputs, parameters, and model development. Eventually, the Shiny application enables individuals lacking programming expertise to generate budgets independently, without the necessity of writing any code in the console.
 
 In conclusion, R has become an essential tool for modeling social insurance budgets, overcoming the limitations of GAUSS and providing the flexibility, transparency, and automation needed for managing complex financial responsibilities in this field.
+
+### References
+
+::: {#refs}
+:::

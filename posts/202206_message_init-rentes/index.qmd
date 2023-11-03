@@ -27,10 +27,13 @@ format:
 
 *What are the financial effects of the Pension Initiative, submitted in July 2021, which proposes to set the retirement age at 66 for both genders and index it to life expectancy, with potential adjustments in subsequent years?*
 
-# Summary
-
 The @botschaft_initrentes_2022 prepared this message, which was adopted by the Swiss Federal Council on June 22, 2022.
 
 Together with the mathematicians from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I contributed to this document by modeling and producing the various variants of the Old-Age and Survivors Insurance (OASI) financial budget in R.
 
 These variants are featured on the last pages of the document.
+
+### References
+
+::: {#refs}
+:::

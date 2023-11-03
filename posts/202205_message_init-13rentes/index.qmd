@@ -27,10 +27,13 @@ format:
 
 *What are the financial effects of the Swiss Trade Unions plan for a thirteenth monthly pension on the Swiss social insurances?*
 
-# Summary
-
 The @botschaft_treize_2022 prepared this message, which was adopted by the Swiss Federal Council on May 25, 2022.
 
 Together with the mathematicians from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I contributed to this document by modeling and producing the various variants of the Old-Age and Survivors Insurance (OASI) financial budget in R.
 
 These variants are featured on the last pages of the document.
+
+### References
+
+::: {#refs}
+:::

@@ -37,8 +37,11 @@ format:
 
 *How can the diverse data of the Swiss Pension Register be clustered and analyzed to understand the sociodemographic characteristics of OASI pensioners and their implications for estimating future OASI finances?*
 
-# Summary
-The anonymous information from the Swiss Pension Register (CCO/FSIO) (PR) is typically used to estimate (in the short, middle, and long term) the future revenues and expenditures of  the Old-Age and Survivors Insurance (OASI).
+The anonymous information from the Swiss Pension Register (CCO/FSIO) (PR) is typically used to estimate (in the short, middle, and long term) the future revenues and expenditures of the Old-Age and Survivors Insurance (OASI).
 
-In this perspective, it is essential to have a clear look at the register’s main statistical features. In order to gain a deeper comprehension of the data and maximize its richness, @lettry_clustering_2023 suggest analyzing the raw data using a suitable clustering technique.
+In this perspective, it is essential to have a clear look at the register's main statistical features. In order to gain a deeper comprehension of the data and maximize its richness, @lettry_clustering_2023 suggest analyzing the raw data using a suitable clustering technique.
 
+### References
+
+::: {#refs}
+:::

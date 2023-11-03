@@ -82,7 +82,8 @@ format:
       dark: darkly
     css: styles.css
     include-after-body: plausible.html
-
+    cite-method: citeproc
+    
 editor: visual
 execute:
   freeze: auto
