@@ -27,7 +27,7 @@ format:
 
 *Is it possible to balance the medium-term financing of OASI pensions while preserving benefit levels in the OASI stabilization project?*
 
-The @ofasbsvfsio_botschaft_2019 prepared this message, which was adopted by the Swiss Federal Council on August 28, 2019. 
+The @ofasbsvfsio_botschaft_2019 prepared this message, which was adopted by the Swiss Federal Council on August 28, 2019.
 
 Together with the mathematicians from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I contributed to this document by modeling and producing the various variants of the Old-Age and Survivors Insurance (OASI) financial budget in R.
 

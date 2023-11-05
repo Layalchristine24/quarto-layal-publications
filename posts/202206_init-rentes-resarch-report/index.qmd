@@ -44,6 +44,8 @@ format:
 
 *What will be the impact of the Swiss "Pension Initiative" on retirement age, gender equality, and the pension system's sustainability, and is the temporary age quotient reduction by 2060 a viable long-term solution?*
 
+### Abstract
+
 In this research project, @muller_renteninitiative_2022 analyze the effects of the Popular Initiative about the OASI Pensions on the labor market, the economy, the unemployment insurance, and the social benefits.
 
 As a member of the support group comprised of legal experts, economists, and political scientists from the [FSIO](https://www.bsv.admin.ch/bsv/en/home.html), I have made significant contributions to this document by providing a model calculation, a revision of the report, and engaging in discussions with the entity commissioned to draft this report regarding the model provided by the text of the initiative.

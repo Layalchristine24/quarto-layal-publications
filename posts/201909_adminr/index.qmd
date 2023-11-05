@@ -27,6 +27,8 @@ format:
 
 *How does the adoption of the R programming language offer a solution to the challenges in managing social insurance budgets related to transparency, data replication, documentation, and automation, and what specific advantages make R a suitable choice for this purpose?*
 
+### Abstract
+
 In this presentation, @lettry_presentation_2019 discussed the challenges of using GAUSS in managing social insurance budgets. These challenges include a lack of transparency, difficulty in replicating previous budgets, inadequate documentation, and the absence of automation.
 
 To address these issues, @lettry_presentation_2019 propose adopting the R programming language, which offers several advantages. R is actively maintained, ensuring its reliability. It also easily connects to various data sources and integrates with systems like LaTeX, improving data handling and reporting. Furthermore, R is known for its flexibility and open-source nature, allowing users to customize it to their needs. A key advantage is that R is entirely free to use.

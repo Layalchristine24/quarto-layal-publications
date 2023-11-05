@@ -25,6 +25,8 @@ format:
 
 *What are the effects of a career break related to motherhood on women's wages?*
 
+### Abstract
+
 Based on the research conducted by @hotchkiss_female_2005, our focus is on the wage income of women who have experienced a professional career interruption by one or more absences of more than one year due to maternity.
 
 This particular career path is referred to as intermittent and exemplifies a three-phase model that encompasses a period of interruption between two active periods in the labor market. Therefore, we are led to divide the female population into two sectors, namely the continuous and intermittent sectors.

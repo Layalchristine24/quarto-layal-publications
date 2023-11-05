@@ -27,6 +27,8 @@ format:
 
 *What will be the trajectory of initial OASI monthly pension levels and how will this impact the projected total monthly pension sums?*
 
+### Abstract
+
 In this presentation, @pipoz_modelisation_2018  discussed the need to adapt mathematical models to project expenditures and revenues in Switzerland's Old-Age and Survivors Insurance (OASI) due to the influence of demographic and economic factors. @pipoz_modelisation_2018 also looked at factors that affect the sum of AVS pensions, especially the impact of changes in initial pension levels. The model used for projections is deterministic and consists of various steps.
 
 Depending on sociodemographic and institutional factors, initial pension levels may vary. The model assumes that the composition of Swiss society remains constant, however, this assumption may not be true in reality due to anticipated demographic and structural modifications.
