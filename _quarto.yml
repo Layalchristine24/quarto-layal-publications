@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Layal Christine Lettry's Publications, Contributions and Talks"
-  description: "Happy to share my work with you!"
+  description: "Get an insight of my publications, contributions, and talks"
   page-navigation: false
   reader-mode: true  
   favicon: "image/favicon/apple-touch-icon.png"
@@ -15,7 +15,9 @@ website:
       - href: index.xml
         text: RSS
       - href: privacy.html
-        text: Privacy Policy        
+        text: Privacy Policy     
+      - href: terms_and_conditions.html
+        text: Terms and Conditions
     right:
       - about.qmd
       - text: Sites
