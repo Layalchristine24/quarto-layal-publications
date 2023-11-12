@@ -74,6 +74,11 @@ website:
     center:
       - href: https://lclettry-pub.netlify.app
         text: lclettry-pub.netlify.app
+    right: 
+      - href: privacy.html
+        text: Privacy Policy
+      - href: terms_and_conditions.html
+        text: Terms and Conditions
   site-url: https://lclettry-pub.netlify.app
   repo-url: https://github.com/Layalchristine24/quarto-layal-publications
   open-graph: true
